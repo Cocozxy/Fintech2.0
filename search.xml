@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>helloword</title>
+      <link href="/1.html"/>
+      <url>/1.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="helloword"><a href="#helloword" class="headerlink" title="helloword"></a>helloword</h1><p>我的第一篇博客</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Github </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

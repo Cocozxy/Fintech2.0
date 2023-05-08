@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fintech Group 777777 yeah</title>
+  
+  <subtitle>Hey, Nice to meet U :)</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/Cocozxy/Fintech-7.github.io/"/>
+  <updated>2023-05-05T15:26:21.841Z</updated>
+  <id>https://github.com/Cocozxy/Fintech-7.github.io/</id>
+  
+  <author>
+    <name>Fintech 7</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>helloword</title>
+    <link href="https://github.com/Cocozxy/Fintech-7.github.io/1.html"/>
+    <id>https://github.com/Cocozxy/Fintech-7.github.io/1.html</id>
+    <published>2023-05-05T14:17:35.000Z</published>
+    <updated>2023-05-05T15:26:21.841Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;helloword&quot;&gt;&lt;a href=&quot;#helloword&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Blog" scheme="https://github.com/Cocozxy/Fintech-7.github.io/categories/Blog/"/>
+    
+    
+      <category term="Github" scheme="https://github.com/Cocozxy/Fintech-7.github.io/tags/Github/"/>
+    
+      <category term="Hexo" scheme="https://github.com/Cocozxy/Fintech-7.github.io/tags/Hexo/"/>
+    
+      <category term="博客搭建" scheme="https://github.com/Cocozxy/Fintech-7.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+</feed>
